@@ -6,7 +6,7 @@ First create a VideoWriter Object using opencv.
 Necessary parameters in VideoWriter Object,<br/>
 &nbsp;&nbsp;	1) Output filename<br/>
 &nbsp;&nbsp;	2) Resolution<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;-Here the correct Screen Size is needed or writing to file won't work. Can use pyautogui.size() to get the size of the primary monitor<br/>
+&nbsp&nbsp&nbsp&nbsp;-Here the correct Screen Size is needed or writing to file won't work. Can use pyautogui.size() to get the size of the primary monitor<br/>
 &nbsp;&nbsp;	3) FPS<br/>
 &nbsp;&nbsp;	4) Video Codec (XVID, MJPG, X264)<br/>
 
