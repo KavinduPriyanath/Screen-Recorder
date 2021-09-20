@@ -1,5 +1,5 @@
 # Screen-Recorder
-A simple Screen Recorder made using Numpy, OpenCV and Pyautogui Python libraries.
+A simple Screen Recorder made using Numpy, OpenCV and Pyautogui Python libraries.<br/>
 How it happens?
 
 First create a VideoWriter Object using opencv.
